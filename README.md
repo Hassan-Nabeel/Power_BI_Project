@@ -45,7 +45,34 @@ Project Insight
 -------------------------------------------------------------------------------------------------
 
 ## 3. Superstore Sales
+ Objective:
+  - To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+
+ The objective can be broken down into the following detailed components:
+  1. Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, and add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity
+  2. Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts
+  3. Sales Forecasting: Leverage historical data and apply time series to generate sales forecasts for the next 15 days
+  4. Actionable Insights and Recommendations: The goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's growth, efficiency, and customer satisfaction goals.
+
+ KPI's Requirements:
+  1.	Sales:  Total sales of the store
+  2.	Quantity: Total quantity of the store
+  3.	Profit: Total profit of the store
+  4.	Avg Delivery: The average number of days to deliver a product
+
+-------------------------------------------------------------------------------------------------------
 
 ## 4. HR Analytics
+ Objective:
+ - Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR Analytics dashboard.
+ 
+ KPI's Requirements:
+  1.	Overall Employees – Total number of employees
+  2.	Attrition – Total number of employees leaving their organizations 
+  3.	Attrition Rate – The rate at which employees leave their organizations 
+  4.	Average Age – The average age of employees 
+  5.	Average Salary – The average salary of employees 
+  6.	Years at company – The average years at which an employee stays in an organization 
+
 
 
