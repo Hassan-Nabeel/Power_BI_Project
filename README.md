@@ -62,17 +62,6 @@ Project Insight
 
 -------------------------------------------------------------------------------------------------------
 
-## 4. HR Analytics
- Objective:
- - Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR Analytics dashboard.
- 
- KPI's Requirements:
-  1.	Overall Employees – Total number of employees
-  2.	Attrition – Total number of employees leaving their organizations 
-  3.	Attrition Rate – The rate at which employees leave their organizations 
-  4.	Average Age – The average age of employees 
-  5.	Average Salary – The average salary of employees 
-  6.	Years at company – The average years at which an employee stays in an organization 
 
 
 
